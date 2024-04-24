@@ -1,1 +1,1 @@
-# simplex
+# simplex - Optimisation
